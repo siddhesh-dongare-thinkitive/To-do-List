@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-container{
+    justify-content: center;
+    
+}
+
+#submit{
+      align-self: center;
+    }
+
+    table{
+        
+        border-collapse: collapse;
+        width: 700px;
+    }
